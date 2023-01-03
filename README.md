@@ -1,7 +1,5 @@
 # Portfolio
 
----
-
 - [About me](#about-me)
 - [Projects](#projects)
 - [Contact me](#contact-me)
