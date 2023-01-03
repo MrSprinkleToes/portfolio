@@ -1,4 +1,4 @@
 title: Portfolio
-remote_theme: minimal
+remote_theme: pages-themes/minimal
 plugins:
 - jekyll-remote-theme
