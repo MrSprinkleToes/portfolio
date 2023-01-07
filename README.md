@@ -1,7 +1,3 @@
-# Luke Weaver's Portfolio
-
----
-
 - [About me](#about-me)
 - [Contact me](#contact-me)
   - [Additional links](#additional-links)
