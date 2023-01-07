@@ -1,6 +1,7 @@
 - [About me](#about-me)
 - [Contact me](#contact-me)
   - [Additional links](#additional-links)
+- [Education](#education)
 - [Projects](#projects)
   - [Professional](#professional)
   - [Personal](#personal)
@@ -17,10 +18,25 @@ I am Luke Weaver, a programmer with a love for building interesting things. I ha
 
 - Discord: MrSprinkle#4236
 - [Twitter](https://twitter.com/mrsprinkletoes)
+- [LinkedIn](https://www.linkedin.com/in/luke-weaver-363077191/)
 
 #### Additional links
 
 - [Github](https://github.com/MrSprinkleToes)
+
+---
+
+## Education
+
+<table>
+	<tr>
+		<td>
+			<b>High school</b>
+			<p style="font-size: 14px">Aug 2019 - Dec 2022</p>
+			I went to high school in both Pennsylvania & Florida, and graduated early in December of 2022 with a GPA of 3.85.
+		</td>
+	</tr>
+</table>
 
 ---
 
