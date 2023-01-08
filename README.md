@@ -10,7 +10,7 @@
 
 ## About me
 
-I am Luke Weaver, a programmer with a love for building interesting things. I have been programming since 2016 and am proficient in Lua, Javascript, and Python, with an increasing understanding of C++. My programming journey started on Roblox, where I have developed a number of small projects. In addition to my programming abilities, I have a strong interest in electronics engineering and enjoy cooking in my spare time. Despite facing challenges due to a physical disability that requires me to use a wheelchair, I am determined and dedicated to pursuing my passions and learning more as a programmer.
+I am Luke Weaver, a programmer who loves to build interesting things. I have been programming since 2016. I use Lua and Javascript on a near daily basis and have an increasing understanding of C++. My programming journey started on Roblox, where I have developed a number of small projects. In addition to my programming abilities, I have a strong interest in electronics engineering and enjoy cooking in my spare time. I am determined and dedicated to pursuing my passions and learning more as a programmer.
 
 ---
 
