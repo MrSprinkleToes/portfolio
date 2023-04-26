@@ -62,6 +62,16 @@ I am Luke Weaver, a programmer who loves to build interesting things. I have bee
 <table>
 	<tr>
 		<td>
+			<b>CHIP8 Interpreter</b><br />
+			<p style="font-size: 14px">Apr 2023</p>
+			Wanting to learn more about how emulators worked, I wrote a very simple CHIP8 interpreter first in C++, then rewrote from scratch one in Luau, utilizing Roblox to provide graphics, sound, and input.
+		</td>
+		<td>
+			<a href="https://github.com/MrSprinkleToes/chip8-interpreter-luau">chip-8-interpreter-luau GitHub repository</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<b>Roblox binary file parser</b><br />
 			<p style="font-size: 14px">Jan 2023</p>
 			I found myself in need of a JavaScript Roblox binary file parser, but couldn't find any. I decided that it would be a good learning opportunity to make one myself, so I did! This project taught me a lot about the structure of files.
